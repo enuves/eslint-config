@@ -1,0 +1,27 @@
+{
+  "name": "@enuves/eslint-config",
+  "version": "0.1.0",
+  "description": "Eslint config for enuves based js projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enuves/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "enuves",
+    "javascript",
+    "styleguide"
+  ],
+  "author": "Welkson Ramos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enuves/eslint-config/issues"
+  },
+  "homepage": "https://github.com/enuves/eslint-config#readme"
+}
