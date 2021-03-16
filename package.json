@@ -1,6 +1,6 @@
 {
   "name": "@enuves/eslint-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Eslint config for enuves based js projects",
   "main": "index.js",
   "scripts": {
