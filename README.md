@@ -1,6 +1,7 @@
 # @enuves/eslint-config
 
 [![CI](https://github.com/enuves/eslint-config/actions/workflows/ci.yml/badge.svg)](https://github.com/enuves/eslint-config/actions/workflows/ci.yml)
+![npm (npm)](https://img.shields.io/npm/v/@enuves/eslint-config)
 [![License](https://img.shields.io/github/license/enuves/eslint-config.svg?style=flat)](https://github.com/enuves/eslint-config/blob/master/LICENSE)
 
 The shareable Eslint config for enuves based projects.
