@@ -36,8 +36,7 @@ module.exports = {
     ],
     "func-call-spacing": [
       "error",
-      "always",
-      { "allowNewlines": true }
+      "never"
     ],
     "arrow-body-style": [
       "error",
